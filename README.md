@@ -7,7 +7,7 @@
       </p>
       <ul>
         <li>🚀 Focado em criar experiências de usuário fluidas e APIs robustas.</li>
-        <li>🌱 Atualmente explorando o universo de <strong>Arquitetura de Microsserviços</strong> e <strong>Testes Automatizados</strong>.</li>
+        <li>🌱 Atualmente explorando o universo de <strong>Arquitetura de Microsserviços</strong> e a integração de <strong>IA em workflows de desenvolvimento</strong>.</li>
         <li>💡 Aberto a colaborações em projetos inovadores e de código aberto.</li>
       </ul>
       <hr>
@@ -41,3 +41,8 @@
     <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,react,nodejs,dotnet,postgresql,git,docker&perline=6" />
   </a>
 </p>
+
+---
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devselso&theme=dracula&column=7"/>
+</div>
