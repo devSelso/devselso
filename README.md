@@ -1,64 +1,72 @@
 <div align="center">
-  <a href="https://github.com/devselso">
-  </a>
-  
-  <h1>
-    Olá! Eu sou Selso Pacheco 👋
-  </h1>
-  
-  <h3>
-    Desenvolvedor Full-Stack | Apaixonado por Tecnologia
-  </h3>
-
-  <a href="https://www.linkedin.com/in/pachecoselso/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:selsoopacheco@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Selso+Pacheco;Desenvolvedor+Full-Stack" alt="Typing SVG" /></a>
 </div>
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>👨‍💻 Um Pouco Sobre Mim</h2>
+      <p align="left">
+        Sou um desenvolvedor <strong>Full-Stack</strong> apaixonado por transformar ideias em soluções reais e eficientes. Minha jornada começou com <strong>Python</strong> para automatizar tarefas e rapidamente evoluiu para a criação de aplicações web completas, combinando a lógica do back-end com a interatividade do front-end.
+      </p>
+      <ul>
+        <li>🚀 Focado em criar experiências de usuário fluidas e APIs robustas.</li>
+        <li>🌱 Atualmente explorando o universo de <strong>Arquitetura de Microsserviços</strong> e <strong>Testes Automatizados</strong>.</li>
+        <li>💡 Aberto a colaborações em projetos inovadores e de código aberto.</li>
+      </ul>
+      <hr>
+      <h3>🤝 Conecte-se Comigo</h3>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/pachecoselso/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:selsoopacheco@hotmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <div align="center">
+        <a href="https://github.com/devselso">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devselso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devselso&layout=compact&langs_count=7&theme=dracula"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 👨‍💻 Sobre Mim
-
-<p align="left">
-  Sou um desenvolvedor Full-Stack curioso e proativo, sempre em busca de novos desafios para solucionar problemas do mundo real com código. Minha jornada na programação começou com a automação de planilhas usando Python, o que despertou minha paixão por ver a tecnologia transformar tarefas complexas em processos simples e eficientes. Desde então, mergulhei no desenvolvimento web, construindo aplicações completas, do back-end robusto ao front-end interativo.
-</p>
-
----
-
-### 🚀 Minhas Habilidades
+### 🛠️ Meu Arsenal de Tecnologias
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,react,nodejs,dotnet,postgresql,git,docker&perline=6" />
+  </a>
 </p>
 
 ---
 
-### ✨ Estatísticas do GitHub
+### 🚀 Meus Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com/devselso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devselso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devselso&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h3>1. Nome do Seu Projeto Principal (Ex: Sistema de E-commerce)</h3>
+      <p>Uma breve descrição do projeto, explicando o problema que ele resolve e o seu papel. Destaque a principal funcionalidade ou o maior desafio técnico que você superou.</p>
+      <p>
+        <a href="[LINK_DO_REPOSITORIO]" target="_blank"><strong>Ver Código Fonte  Clicando Aqui 🔗</strong></a>
+      </p>
+    </td>
+    <td align="right">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,postgresql&theme=dark" /><br/>
+      <small><em>React | Node.js | PostgreSQL</em></small>
+    </td>
+  </tr>
+</table>
 
----
-
-<div align="center">
-  <p>... e muitos outros projetos que você pode encontrar aqui no meu GitHub!</p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h3>2. Nome de Outro Projeto (Ex: API de Análise de Dados)</h3>
