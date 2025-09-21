@@ -41,8 +41,3 @@
     <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,react,nodejs,dotnet,postgresql,git,docker&perline=6" />
   </a>
 </p>
-
----
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devselso&theme=dracula&column=7"/>
-</div>
