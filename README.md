@@ -27,10 +27,6 @@
   Sou um desenvolvedor Full-Stack curioso e proativo, sempre em busca de novos desafios para solucionar problemas do mundo real com código. Minha jornada na programação começou com a automação de planilhas usando Python, o que despertou minha paixão por ver a tecnologia transformar tarefas complexas em processos simples e eficientes. Desde então, mergulhei no desenvolvimento web, construindo aplicações completas, do back-end robusto ao front-end interativo.
 </p>
 
-- 🔭 Atualmente estou trabalhando em uma **API RESTful para um sistema de gerenciamento, utilizando Django e PostgreSQL**.
-- 🌱 Estou sempre aprendendo sobre **Arquitetura de Microsserviços com Docker e aprofundando meus conhecimentos em testes automatizados**.
-- 📫 Como me encontrar: **selsoopacheco@hotmail.com**
-
 ---
 
 ### 🚀 Minhas Habilidades
@@ -65,46 +61,6 @@
 </div>
 
 ---
-
-### 🤖 Projetos em Destaque (Criados em Colaboração com IA)
-
-<p>
-  Aqui estão alguns projetos que desenvolvi, utilizando IA como uma ferramenta para brainstorming, debugging e otimização de código.
-</p>
-
-<details>
-  <summary><strong>Projeto 1: Plataforma de Gerenciamento de Tarefas (Estilo Kanban)</strong> - Aplicação full-stack para organização de projetos pessoais.</summary>
-  <br>
-  <p>
-    Desenvolvi um painel Kanban completo que permite aos usuários criar, arrastar e soltar tarefas entre colunas (To Do, In Progress, Done). O maior desafio foi implementar a atualização em tempo real da interface com React e garantir a persistência dos dados de forma eficiente no back-end.
-    <br><br>
-    <em>Usei o Gemini para projetar o schema do banco de dados no PostgreSQL e para criar componentes React reutilizáveis a partir de um protótipo.</em>
-  </p>
-  <strong>Tecnologias:</strong>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <br><br>
-  <a href="[LINK PARA O SEU REPOSITÓRIO NO GITHUB]" target="_blank">Ver Repositório 🔗</a>
-  &nbsp;&nbsp;
-  <a href="[LINK PARA O PROJETO ONLINE, SE HOUVER]" target="_blank">Ver Deploy 🚀</a>
-</details>
-
-<details>
-  <summary><strong>Projeto 2: API REST para Blog de Tecnologia</strong> - Back-end robusto para alimentar um blog com posts, categorias e autenticação de usuários.</summary>
-  <br>
-  <p>
-    Criei uma API completa com Django Rest Framework, implementando endpoints para CRUD de posts, sistema de comentários, tags e autenticação de usuários via tokens JWT. O projeto foi containerizado com Docker para facilitar o deploy e garantir a consistência entre os ambientes de desenvolvimento e produção.
-    <br><br>
-    <em>A IA foi fundamental para otimizar queries complexas no banco de dados e para gerar a documentação automática da API.</em>
-  </p>
-  <strong>Tecnologias:</strong>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <br><br>
-  <a href="[LINK PARA O SEU REPOSITÓRIO NO GITHUB]" target="_blank">Ver Repositório 🔗</a>
-</details>
 
 <div align="center">
   <p>... e muitos outros projetos que você pode encontrar aqui no meu GitHub!</p>
