@@ -45,28 +45,3 @@
     <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,react,nodejs,dotnet,postgresql,git,docker&perline=6" />
   </a>
 </p>
-
----
-
-### 🚀 Meus Projetos em Destaque
-
-<table width="100%">
-  <tr>
-    <td width="70%">
-      <h3>1. Nome do Seu Projeto Principal (Ex: Sistema de E-commerce)</h3>
-      <p>Uma breve descrição do projeto, explicando o problema que ele resolve e o seu papel. Destaque a principal funcionalidade ou o maior desafio técnico que você superou.</p>
-      <p>
-        <a href="[LINK_DO_REPOSITORIO]" target="_blank"><strong>Ver Código Fonte  Clicando Aqui 🔗</strong></a>
-      </p>
-    </td>
-    <td align="right">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,postgresql&theme=dark" /><br/>
-      <small><em>React | Node.js | PostgreSQL</em></small>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="70%">
-      <h3>2. Nome de Outro Projeto (Ex: API de Análise de Dados)</h3>
