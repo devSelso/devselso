@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://github.com/devselso">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBtdjJqYmg5cG12NmY1dWZsdGRwZzR6cnVscjVqMGl2eDYwZmgyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACQZstAanp3r/giphy.gif" width="120px" />
   </a>
   
   <h1>
