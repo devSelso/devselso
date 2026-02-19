@@ -15,7 +15,7 @@ Sou um entusiasta da tecnologia migrando do suporte estratégico para o **Desenv
 
 ---
 
-### 🛠️ Toolbox (Minhas Ferramentas)
+### 🛠️ Stacks (Minhas Ferramentas)
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -30,22 +30,9 @@ Sou um entusiasta da tecnologia migrando do suporte estratégico para o **Desenv
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSelso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSelso&layout=compact&theme=dracula" />
-</div>
-
----
-
 ### 🤝 Vamos trocar uma ideia?
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pachecoselso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
-
-<p align="center"> 
-  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i> 🚀
 </p>
