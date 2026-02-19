@@ -1,9 +1,5 @@
 # Olá, eu sou o Selso Pacheco! 🚀👨‍💻
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&animation=fadeIn" />
-</div>
-
 ### 💫 Sobre mim
 
 Sou um entusiasta da tecnologia migrando do suporte estratégico para o **Desenvolvimento Full Stack**. Minha bagagem no suporte técnico me deu o "superpoder" de entender a dor do usuário e transformar isso em código eficiente e interfaces fluidas.
@@ -34,5 +30,5 @@ Sou um entusiasta da tecnologia migrando do suporte estratégico para o **Desenv
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pachecoselso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:selsoopacheco@hotmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
