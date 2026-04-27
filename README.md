@@ -4,9 +4,6 @@
 
 Sou um entusiasta da tecnologia migrando do suporte estratégico para o **Desenvolvimento Full Stack**. Minha bagagem no suporte técnico me deu o "superpoder" de entender a dor do usuário e transformar isso em código eficiente e interfaces fluidas.
 
-- 🛠️ Atualmente focado no ecossistema **JavaScript (React & Node.js)**.
-- 🗄️ Especialista em modelagem de dados com **SQL & Sequelize**.
-- 🎨 Apaixonado por UI/UX e design responsivo com **Tailwind CSS**.
 - 💬 Buscando constantemente aprender novas tecnologias e resolver problemas reais.
 
 ---
