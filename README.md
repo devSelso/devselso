@@ -2,7 +2,7 @@
 
 ### 💫 Sobre mim
 
-Sou um entusiasta da tecnologia migrando do suporte estratégico para o **Desenvolvimento Full Stack**. Minha bagagem no suporte técnico me deu o "superpoder" de entender a dor do usuário e transformar isso em código eficiente e interfaces fluidas.
+Sou um entusiasta da tecnologia migrando do suporte estratégico para o **Desenvolvimento Full Stack**.
 
 - 💬 Buscando constantemente aprender novas tecnologias e resolver problemas reais.
 
